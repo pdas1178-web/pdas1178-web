@@ -70,7 +70,7 @@ End-to-end e-commerce automation framework — login → product search → add 
 |---|---|---|---|
 | QA Automation Engineer | Allianz Insurance — via Accenture | Insurance | Mar 2024 – Oct 2025 |
 | UAT & Functional Test Analyst | BT EE, Bristol UK — via Accenture | Telecom | Jan 2023 – Mar 2024 |
-| UAT & Functional Test Analyst | BT EE, Bristol UK — via Accenture | Telecom | Jan 2019 – Mar 2023 |
+| UAT & Functional Test Analyst | BT EE, Pune, India — via Accenture | Telecom | Jan 2019 – Mar 2023 |
 | Software Tester | First Data Corporation — via Accenture | Banking | May 2017 – Dec 2018 |
 
 ---
