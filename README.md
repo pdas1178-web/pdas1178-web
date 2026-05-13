@@ -48,7 +48,7 @@ public class PriyankaDas extends QAEngineer {
     };
 
     public String highlight() {
-        return "5 years on-site at BT EE (UK) · 35% reduction in post-production defects";
+        return "1 year on-site at BT EE (UK) · 35% reduction in post-production defects";
     }
 }
 ```
